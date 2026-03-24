@@ -192,7 +192,7 @@ npm start
 
 ## 📸 Screenshots
 
-> Add screenshots of:
+> Add screenshots of:![UI](screenshots/ui.png)
 
 * Chat UI
 * Response output
